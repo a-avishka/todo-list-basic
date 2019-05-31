@@ -1,2 +1,2 @@
 # ToDo-list-react
-A complete todo list app built entirely from React.
+A simple intuitive todo list app built from React.
